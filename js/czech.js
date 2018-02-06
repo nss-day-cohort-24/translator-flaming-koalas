@@ -1,4 +1,3 @@
-
 "use strict";
 function czech() {
 
@@ -17,3 +16,4 @@ function czech() {
 }
 
 module.exports = czech;
+
